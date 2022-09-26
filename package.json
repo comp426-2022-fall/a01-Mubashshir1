@@ -4,7 +4,8 @@
   "description": "Comp 426 assignment 1 webserver",
   "main": "server.js",
   "scripts": {
-    "test": "node server.js --port=5555"
+    "test": "node server.js --port=5555",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
@@ -17,9 +18,9 @@
 	  "node",
 	  "fs",
 	  "args",
-	  "http",
+	  "http"
   ],
-  "author": "Mubashshir1",
+  "author": "@Mubashshir1",
   "license": "GPL-3.0",
   "bugs": {
     "url": "https://github.com/comp426-2022-fall/a01-Mubashshir1/issues"
